@@ -7,3 +7,5 @@
     ````
   to ``AndroidManifest.xml`` file in ``<manifest>`` tag
   of both apps
+
+![](img_writer.png) ``<->`` ![](img_reader.png)
