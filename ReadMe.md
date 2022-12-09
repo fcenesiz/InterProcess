@@ -1,4 +1,4 @@
-# InterProcess Data Sharing
+# Data Sharing with InterProcess
 
 - Shares data between apps which have same named userId
 - need to add this
